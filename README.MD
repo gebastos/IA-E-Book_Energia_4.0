@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="120" src="./assets/Energia 4.0 - IA, Analytics e Otimização para Profissionais de Energia.png">
+    <img width="150" src="./assets/Energia 4.0 - IA, Analytics e Otimização para Profissionais de Energia.png">
 </p>
 
 <p align="center">
