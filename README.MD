@@ -1,92 +1,77 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="120" src="./assets/capa.png">
 </p>
-
 
 <p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
--------
-
-
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
+<a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/ChatGPT-IA%20Assistant-10A37F?logo=openai&logoColor=white" alt="ChatGPT - IA Assistant"></a>
+<a href="https://github.com/gebastos/ebook-energia-4.0"><img src="https://img.shields.io/badge/Project-Ebook%204.0-blue?logo=github" alt="GitHub Project"></a>
 </p>
-
-# Projeto EBOOK Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
-
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-
-## 🧠 Prompts
-
-
-ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
-
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
-
-## ✨ Features
-
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
-
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+<p align="center">
+<img 
+    src="./assets/capa.png"
+    width="400"
+/>
+</p>
+
+# ⚡ Projeto EBOOK — Energia 4.0: IA, Analytics e Otimização para Profissionais de Energia
+
+> 💡 **Descrição:** Este e-book foi desenvolvido com o objetivo de explorar como a Inteligência Artificial, a Análise de Dados (Analytics) e a Automação podem revolucionar a gestão de energia.  
+> Apresenta uma abordagem técnica e aplicada sobre **previsão de consumo, detecção de desperdícios, otimização de tarifas, integração de dados e automação com Excel e Python**.
+
+📗 O conteúdo foi escrito com linguagem clara, objetiva e prática — ideal para **analistas de energia, gestores, consultores e estudantes de engenharia elétrica ou de software**.
+
+---
+
+## 💻 Tecnologias Utilizadas
+
+- [ChatGPT](https://chat.openai.com/) — geração de conteúdo técnico  
+- [MidJourney](https://www.midjourney.com/app/) — criação de elementos visuais  
+- [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365/powerpoint) ou [Canva](https://www.canva.com/) — diagramação e design  
+- [Python](https://www.python.org/) — exemplos de automação e análise de dados  
+- [Excel](https://www.microsoft.com/pt-br/microsoft-365/excel) — simulações e dashboards energéticos  
+
+---
+
+## 🧠 Prompts Utilizados
+
+**ChatGPT：**
+
+| Ação | Prompt |
+| :--: | :------ |
+| Título | Crie um título de e-book sobre o uso de IA, analytics e automação para gestão de energia, com foco em previsão de consumo, detecção de desperdícios e otimização de tarifas. Liste 5 opções curtas e técnicas. |
+| Conteúdo | Faça um texto para e-book com foco em IA e analytics na gestão de energia. Linguagem técnica, mas fácil de entender. Inclua exemplos práticos e títulos sugestivos por tópico. |
+
+**Midjourney：**
+
+| Ação | Prompt |
+| :--: | :------ |
+| Capa | Capa de e-book futurista sobre Energia 4.0: IA, Analytics e Otimização para Profissionais de Energia. Fundo azul escuro com degradê e efeitos de luz neon. Mão humana interagindo com gráficos digitais e painéis de energia. |
+
+---
+
+## ✨ Features
+
+- Conteúdo original sobre tecnologia e gestão energética  
+- Linguagem técnica e acessível  
+- Ilustração de capa com temática humano + tecnologia  
+- Abordagem prática com exemplos em Excel e Python  
+
+---
+
+## 👩‍💻 Autora
+
+<p>
+  <img align="left" width="80" src="https://avatars.githubusercontent.com/u/000000?v=4" style="border-radius:50%">
+  <p>&nbsp;&nbsp;&nbsp;<strong>Geovanna Bastos</strong><br>
+  &nbsp;&nbsp;&nbsp;<a href="https://github.com/gebastos">GitHub</a> |
+  <a href="https://www.linkedin.com/in/geovanna-bastos/">LinkedIn</a></p>
+</p>
+
+<br><br>
+
+---
+
+⌨️ com ⚡ e 💡 por [Geovanna Bastos](https://github.com/gebastos)
