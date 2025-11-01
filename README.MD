@@ -1,12 +1,6 @@
 <p align="center">
-    <img width="120" src="./assets/cover.png">
+    <img width="120" src="./assets/Energia 4.0 - IA, Analytics e Otimização para Profissionais de Energia.png">
 </p>
-
-<p align="center">
-<a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/ChatGPT-IA%20Assistant-10A37F?logo=openai&logoColor=white" alt="ChatGPT - IA Assistant"></a>
-<a href="https://github.com/gebastos/ebook-energia-4.0"><img src="https://img.shields.io/badge/Project-Ebook%204.0-blue?logo=github" alt="GitHub Project"></a>
-</p>
-
 ---
 
 <p align="center">
