@@ -11,7 +11,7 @@
 
 <p align="center">
 <img 
-    src="./assets/capaEBook.png"
+    src="./assets/capaEBook.jpg"
     width="400"
 />
 </p>
@@ -44,7 +44,7 @@
 | Título | Crie um título de e-book sobre o uso de IA, analytics e automação para gestão de energia, com foco em previsão de consumo, detecção de desperdícios e otimização de tarifas. Liste 5 opções curtas e técnicas. |
 | Conteúdo | Faça um texto para e-book com foco em IA e analytics na gestão de energia. Linguagem técnica, mas fácil de entender. Inclua exemplos práticos e títulos sugestivos por tópico. |
 
-**Midjourney：**
+**Designer Microsoft**
 
 | Ação | Prompt |
 | :--: | :------ |
@@ -64,7 +64,7 @@
 ## 👩‍💻 Autora
 
 <p>
-  <img align="left" width="80" src="https://avatars.githubusercontent.com/u/000000?v=4" style="border-radius:50%">
+  <img align="left" width="80" src="https://avatars.githubusercontent.com/u/167234198?v=4" style="border-radius:50%">
   <p>&nbsp;&nbsp;&nbsp;<strong>Geovanna Bastos</strong><br>
   &nbsp;&nbsp;&nbsp;<a href="https://github.com/gebastos">GitHub</a> |
   <a href="https://www.linkedin.com/in/geovanna-bastos/">LinkedIn</a></p>
