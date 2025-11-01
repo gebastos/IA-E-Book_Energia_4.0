@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="120" src="./assets/capa.png">
+    <img width="120" src="./assets/cover.png">
 </p>
 
 <p align="center">
@@ -28,8 +28,8 @@
 ## 💻 Tecnologias Utilizadas
 
 - [ChatGPT](https://chat.openai.com/) — geração de conteúdo técnico  
-- [MidJourney](https://www.midjourney.com/app/) — criação de elementos visuais  
-- [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365/powerpoint) ou [Canva](https://www.canva.com/) — diagramação e design  
+- [Designer Microsoft](https://designer.microsoft.com/) — criação de elementos visuais  
+- [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365/powerpoint) e [Canva](https://www.canva.com/) — diagramação e design  
 - [Python](https://www.python.org/) — exemplos de automação e análise de dados  
 - [Excel](https://www.microsoft.com/pt-br/microsoft-365/excel) — simulações e dashboards energéticos  
 
